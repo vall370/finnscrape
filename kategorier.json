@@ -1,0 +1,278 @@
+[
+    {
+        "text": "Arbeidstaker- og arbeidsgiverorganisasjoner",
+        "category": "industry-1"
+    },
+    {
+        "text": "Arkitektur, areal og interiør",
+        "category": "industry-12"
+    },
+    {
+        "text": "Arkiv og bibliotek",
+        "category": "industry-13"
+    },
+    {
+        "text": "Bank, finans og forsikring",
+        "category": "industry-2"
+    },
+    {
+        "text": "Barn, skole og undervisning",
+        "category": "industry-14"
+    },
+    {
+        "text": "Bil, kjøretøy og verksted",
+        "category": "industry-16"
+    },
+    {
+        "text": "Bil- og bildelproduksjon",
+        "category": "industry-15"
+    },
+    {
+        "text": "Butikk og varehandel",
+        "category": "industry-3"
+    },
+    {
+        "text": "Bygg og anlegg",
+        "category": "industry-4"
+    },
+    {
+        "text": "Drift og vedlikeholdstjenester",
+        "category": "industry-17"
+    },
+    {
+        "text": "Dyr og dyrehelse",
+        "category": "industry-18"
+    },
+    {
+        "text": "Eiendom",
+        "category": "industry-19"
+    },
+    {
+        "text": "Elektronikk",
+        "category": "industry-20"
+    },
+    {
+        "text": "Event og arrangementer",
+        "category": "industry-21"
+    },
+    {
+        "text": "Farmasi og legemiddel",
+        "category": "industry-5"
+    },
+    {
+        "text": "Fiskeri og oppdrett",
+        "category": "industry-25"
+    },
+    {
+        "text": "Forlag og trykkeri",
+        "category": "industry-7"
+    },
+    {
+        "text": "Forskning, utdanning og vitenskap",
+        "category": "industry-22"
+    },
+    {
+        "text": "Forsvar og militær",
+        "category": "industry-23"
+    },
+    {
+        "text": "Grossisthandel import/eksport",
+        "category": "industry-24"
+    },
+    {
+        "text": "HR, organisasjonsutvikling og rekruttering",
+        "category": "industry-28"
+    },
+    {
+        "text": "Helse og omsorg",
+        "category": "industry-26"
+    },
+    {
+        "text": "Hotell og overnatting",
+        "category": "industry-27"
+    },
+    {
+        "text": "Håndverkstjenester",
+        "category": "industry-29"
+    },
+    {
+        "text": "IT",
+        "category": "industry-65"
+    },
+    {
+        "text": "IT - maskinvare",
+        "category": "industry-33"
+    },
+    {
+        "text": "IT - programvare",
+        "category": "industry-8"
+    },
+    {
+        "text": "Ideelle organisasjoner",
+        "category": "industry-30"
+    },
+    {
+        "text": "Idrett og trening",
+        "category": "industry-31"
+    },
+    {
+        "text": "Industri og produksjon",
+        "category": "industry-70"
+    },
+    {
+        "text": "Internettbaserte tjenester",
+        "category": "industry-32"
+    },
+    {
+        "text": "Jordbruk og skogbruk",
+        "category": "industry-9"
+    },
+    {
+        "text": "Juridiske tjenester",
+        "category": "industry-10"
+    },
+    {
+        "text": "Kirke og menighet",
+        "category": "industry-68"
+    },
+    {
+        "text": "Kjemisk industri",
+        "category": "industry-11"
+    },
+    {
+        "text": "Konsulent og rådgivning",
+        "category": "industry-34"
+    },
+    {
+        "text": "Kraft og energi",
+        "category": "industry-35"
+    },
+    {
+        "text": "Kunst og kultur",
+        "category": "industry-36"
+    },
+    {
+        "text": "Luftfart",
+        "category": "industry-37"
+    },
+    {
+        "text": "Maritim og offshore",
+        "category": "industry-69"
+    },
+    {
+        "text": "Markedsanalyse",
+        "category": "industry-38"
+    },
+    {
+        "text": "Markedsføring og annonsering",
+        "category": "industry-39"
+    },
+    {
+        "text": "Matvareproduksjon og -industri",
+        "category": "industry-40"
+    },
+    {
+        "text": "Medie- og innholdsproduksjon",
+        "category": "industry-41"
+    },
+    {
+        "text": "Medisinsk utstyr og rekvisita",
+        "category": "industry-42"
+    },
+    {
+        "text": "Metaller og mineraler",
+        "category": "industry-43"
+    },
+    {
+        "text": "Miljøtjenester",
+        "category": "industry-44"
+    },
+    {
+        "text": "Museer, gallerier og kulturminne",
+        "category": "industry-67"
+    },
+    {
+        "text": "Musikk",
+        "category": "industry-45"
+    },
+    {
+        "text": "Offentlig administrasjon",
+        "category": "industry-66"
+    },
+    {
+        "text": "Olje og gass",
+        "category": "industry-46"
+    },
+    {
+        "text": "Organisasjoner",
+        "category": "industry-48"
+    },
+    {
+        "text": "PR, informasjon og kommunikasjon",
+        "category": "industry-50"
+    },
+    {
+        "text": "Politi og sikkerhet",
+        "category": "industry-49"
+    },
+    {
+        "text": "Reise og turisme",
+        "category": "industry-51"
+    },
+    {
+        "text": "Renovasjon og renhold",
+        "category": "industry-52"
+    },
+    {
+        "text": "Restaurant, mat og uteliv",
+        "category": "industry-53"
+    },
+    {
+        "text": "Shipping",
+        "category": "industry-55"
+    },
+    {
+        "text": "Storhusholdning og catering",
+        "category": "industry-56"
+    },
+    {
+        "text": "Tekstil",
+        "category": "industry-57"
+    },
+    {
+        "text": "Telekommunikasjon",
+        "category": "industry-58"
+    },
+    {
+        "text": "Transport og logistikk",
+        "category": "industry-59"
+    },
+    {
+        "text": "Trevareindustri",
+        "category": "industry-60"
+    },
+    {
+        "text": "Underholdning",
+        "category": "industry-6"
+    },
+    {
+        "text": "VVS",
+        "category": "industry-63"
+    },
+    {
+        "text": "Velvære",
+        "category": "industry-61"
+    },
+    {
+        "text": "Verksindustri",
+        "category": "industry-62"
+    },
+    {
+        "text": "Økonomi og regnskap",
+        "category": "industry-64"
+    },
+    {
+        "text": "Annet",
+        "category": "industry-9999"
+    }
+]
